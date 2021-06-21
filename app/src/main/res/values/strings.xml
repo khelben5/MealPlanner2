@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MealPlanner2</string>
+
+    <!-- Ingredients section -->
+    <string name="ingredientsSectionTitle">Ingredients</string>
+
+    <!-- Navigation items -->
+    <string name="navigationItemRecipes">Recipes</string>
+    <string name="navigationItemCalendar">Calendar</string>
+    <string name="navigationItemIngredients">Ingredients</string>
+
+    <!-- Common -->
+    <string name="add">Add</string>
+
+</resources>
